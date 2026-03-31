@@ -1,0 +1,18 @@
+Stay Safe Online: Checklist for being safe online:-
+1. Use a different strong password for each important account
+Create unique passphrases for your email, college portal, cloud drive, and payment apps, and turn on two-factor authentication wherever possible. If one password leaks, reused passwords can expose everything from assignments to bank-linked apps.  
+2. Treat “urgent” messages about scholarships, internships, exams, or fee refunds as suspicious
+Before clicking any link or sharing details, check the sender’s email/number, inspect the website domain carefully, and verify through your college’s official website or office contact. This is especially important for fake job, offer, and account-verification scams.  
+3. Download apps only from official app stores and review permissions
+Avoid installing APKs sent over WhatsApp/Telegram or “support” apps suggested by strangers. Remove unused apps and be extra cautious with apps asking for SMS, accessibility, contacts, or screen-sharing permissions. NPCI specifically warns users against downloading unknown apps.  
+4. Do not do sensitive logins or payments on public WiFi
+Avoid entering passwords, banking details, or making UPI/card payments on open campus, café, railway-station, or hostel guest WiFi. Use mobile data or a trusted hotspot for fee payments, ticket bookings, or wallet top-ups.  
+5. Keep your social media private and don’t overshare personal details
+Don’t post your phone number, hostel room details, class timetable, ID cards, travel plans, or screenshots of complaints/payment issues. Fraudsters often use social media posts to impersonate support staff or target students with tailored scams.  
+6. UPI rule #1: Never share your UPI PIN, OTP, or card details with anyone
+No bank, app, college office, or customer-care executive should ask for your UPI PIN. NPCI clearly states that the UPI PIN is to be entered only for payments, not for receiving money.  
+7. UPI rule #2: Never scan a QR code or approve a collect request to “receive” money
+If someone says they are sending you cashback, a refund, prize money, or second-hand marketplace payment, do not scan their QR code and do not enter your UPI PIN. Scanning a QR code and entering a UPI PIN is for making a payment, not receiving one. 
+8. Use only official support channels, and report fraud immediately
+Don’t trust customer-care numbers found in random search results, comments, or social media posts—use numbers from the official app or website only. If you face cyber fraud, especially financial fraud, report it right away through the National Cyber Crime Portal: cybercrime.gov.in and call Helpline 1930 as early action can improve the chance of stopping fund movement.  
+
